@@ -1,0 +1,109 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+.header {
+  background-color: #EEFBFB;
+  color: #26d0c9;
+  height: 80px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  font-family: Impact;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+  list-style: none;
+  font-family: cursive;
+}
+
+.main {
+  padding: 100px 80px;
+  background-color: #12232E;
+}
+
+.welcome-section {
+  text-align: center;
+}
+
+.welcome-section h1 {
+  font-size: 50px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  font-family: algerian;
+  color: #fff;
+}
+
+.welcome-section h3 {
+  font-size: 40px;
+  margin-bottom: 3px;
+  font-family: algerian;
+  color: #DCE1E3;
+}
+
+.welcome-section h4 {
+  color: #fff;
+  font-family: cursive;
+  font-family: 30px;
+  opacity: 0.6;
+}
+
+.welcome-section span {
+  color: #3F3F3F;
+}
+
+.about-section {
+  height: 500px;
+  margin-top: 200px;
+}
+
+.section-title {
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  font-family: "Times New Roman";
+  padding-bottom: 15px;
+  color: #FDF8F5;
+}
+
+.about-section li {
+  background-color: #203647;
+  color: #FDF8F5;
+  font-family: cursive;
+  font-size: 22px;
+  text-align: center;
+  list-style: none;
+}
+
+.project-section {
+  padding: 10px 0;
+}
+.project-section a{
+  font-family: cursive;
+  font-size: 22px;
+}
+
+.project-section  p {
+  font-family: cursive;
+  font-size: 22px;
+  color: #fff
+}
+
+.footer {
+  background-color: #EEFBFB;
+  color: #26d0c9;
+  height: 20px;
+  padding: 20px;
+}
+
+.footer-logo {
+  font-size: 32px;
+  font-family: Impulse;
+}
